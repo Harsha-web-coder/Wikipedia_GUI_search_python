@@ -6,4 +6,4 @@ I have used GUI concept using tkinter.
 
 Install the following package for this project:
 
-"pip install wikipedia"
+"import wikipedia"
